@@ -9,10 +9,12 @@
 
 
 bamazonManager.js - Management side allowing user to:
-View All Products for Sale
-Check Low Inventory
-Add Inventory
-Add New Products to Database
+
+* View All Products for Sale
+* Check Low Inventory
+* Add Inventory
+* Add New Products to Database
+<img width="1030" alt="Screen Shot 2019-03-27 at 1 18 23 AM" src="https://user-images.githubusercontent.com/46644726/55060288-5c5fa300-502e-11e9-9816-009c76c632ce.png">
 
 
 
