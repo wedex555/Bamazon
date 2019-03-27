@@ -4,8 +4,7 @@
 
 ## Bamazon has two apps:
  bamazonCustomer.js - Client side to view and purchase products
-
-<img width="1134" alt="Screen Shot 2019-03-20 at 10 17 50 AM" src="https://user-images.githubusercontent.com/46644726/55035095-44f3cc00-4fd4-11e9-8419-62fe655460da.png">
+<img width="1002" alt="Screen Shot 2019-03-27 at 1 27 53 AM" src="https://user-images.githubusercontent.com/46644726/55060844-9e3d1900-502f-11e9-8e36-3dbb3db46c8b.png">
 
 
 bamazonManager.js - Management side allowing user to:
